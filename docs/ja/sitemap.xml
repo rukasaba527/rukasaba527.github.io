@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rukasaba527.github.io/categories/</loc>
+    <loc>http://rukasaba527.github.io/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://rukasaba527.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
                 href="http://rukasaba527.github.io/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://rukasaba527.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://rukasaba527.github.io/en/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+                href="http://rukasaba527.github.io/ja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://rukasaba527.github.io/ja/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="http://rukasaba527.github.io/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://rukasaba527.github.io/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://rukasaba527.github.io/en/series/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
+                href="http://rukasaba527.github.io/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://rukasaba527.github.io/ja/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="http://rukasaba527.github.io/series/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://rukasaba527.github.io/ja/series/"
+                />
   </url>
   
   <url>
-    <loc>http://rukasaba527.github.io/tags/</loc>
+    <loc>http://rukasaba527.github.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://rukasaba527.github.io/en/tags/"
+                href="http://rukasaba527.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://rukasaba527.github.io/tags/"
+                href="http://rukasaba527.github.io/ja/tags/"
                 />
   </url>
   

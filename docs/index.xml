@@ -10,10 +10,11 @@
     <link>http://rukasaba527.github.io/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>en</language>
     <managingEditor>rukasaba527@outlook.com (rukasaba527)</managingEditor>
     <webMaster>rukasaba527@outlook.com (rukasaba527)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 07 Nov 2020 19:42:11 +0900</lastBuildDate>
     
         <atom:link href="http://rukasaba527.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -41,6 +42,24 @@
         
       
 
+      
+      <item>
+        <title>Test</title>
+        <link>http://rukasaba527.github.io/posts/test/</link>
+        <pubDate>Sat, 07 Nov 2020 19:42:11 +0900</pubDate>
+        <author>rukasaba527@outlook.com (rukasaba527)</author>
+        <atom:modified>Sat, 07 Nov 2020 19:42:11 +0900</atom:modified>
+        <guid>http://rukasaba527.github.io/posts/test/</guid>
+        <description>Test 投稿テスト</description>
+        
+        <dc:creator>rukasaba527</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     
