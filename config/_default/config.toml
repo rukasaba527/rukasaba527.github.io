@@ -3,7 +3,7 @@ title = "rukasabaの技術メモ"
 theme = "zzo"
 publishDir = "docs"
 
-defaultContentLanguage = "ja"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
