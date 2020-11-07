@@ -47,12 +47,12 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "rukasaba527"
+email = "rukasaba527@outlook.com"
+whoami = "Student"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
+location = "Tokyo, Japan"
 organization = "Hugo"
 link = "https://zzossig.io/ko"
 

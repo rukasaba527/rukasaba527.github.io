@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - rukasabaの技術メモ
     subtitle:
-      - The world’s fastest framework for building websites
+      - 適当に書きます
     titleColor: 
     titleShadow: true
     titleFontSize: 44
