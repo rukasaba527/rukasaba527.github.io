@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rukasaba527.github.io/ja/categories/</loc>
+    <loc>http://rukasaba527.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -12,12 +12,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://rukasaba527.github.io/ja/categories/"
+                href="http://rukasaba527.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://rukasaba527.github.io/ja/</loc>
+    <loc>http://rukasaba527.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,12 +26,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://rukasaba527.github.io/ja/"
+                href="http://rukasaba527.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://rukasaba527.github.io/ja/series/</loc>
+    <loc>http://rukasaba527.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,12 +40,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://rukasaba527.github.io/ja/series/"
+                href="http://rukasaba527.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>http://rukasaba527.github.io/ja/tags/</loc>
+    <loc>http://rukasaba527.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://rukasaba527.github.io/ja/tags/"
+                href="http://rukasaba527.github.io/tags/"
                 />
   </url>
   
