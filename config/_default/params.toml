@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "rukasaba527's Site"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -52,9 +52,9 @@ email = "rukasaba527@outlook.com"
 whoami = "Student"
 bioImageUrl = ""
 useGravatar = false
-location = "Tokyo, Japan"
+location = "Yokohama, Japan"
 organization = "Hugo"
-link = "https://zzossig.io/ko"
+link = "https://github.com/rukasaba527"
 
 # sidebar
 enableBio = true
@@ -148,11 +148,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:rukasaba527@outlook.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "http://twitter.com/rukasaba527"
+  github = "https://github.com/rukasaba527"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
